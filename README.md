@@ -21,7 +21,13 @@ create database first_app_test;
 
 create database first_app_development;
 
-ENG-1234 - 1 - 2
+Install Loggly to see logs:
+
+- had to add my credit card
+
+heroku addons:add loggly
+- Adding loggly on ctierney-first-app... done, v9 (free)
+  Use `heroku addons:docs loggly` to view documentation.
 
 
 

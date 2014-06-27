@@ -23,15 +23,15 @@ default: &default
   pool: 5
 
 #
-#development:
-#  host: localhost
-#  adapter: postgresql
-#  encoding: utf8
-#  database: first_app_development
-#  pool: 5
-#  username:
-#  password:
-#
+development:
+  host: localhost
+  adapter: postgresql
+  encoding: utf8
+  database: first_app_development
+  pool: 5
+  username:
+  password:
+
 #test:
 #  host: localhost
 #  adapter: postgresql
